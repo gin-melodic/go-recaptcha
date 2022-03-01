@@ -24,7 +24,7 @@ type RecaptchaResponse struct {
 	ErrorCodes  []string  `json:"error-codes"`
 }
 
-const recaptchaServerName = "https://www.google.com/recaptcha/api/siteverify"
+const recaptchaServerName = "https://recaptcha.google.com/recaptcha/api/siteverify"
 
 var recaptchaPrivateKey string
 
