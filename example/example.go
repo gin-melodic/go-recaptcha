@@ -8,7 +8,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/dpapathanasiou/go-recaptcha"
+	"github.com/mahongran/go-recaptcha"
 	"log"
 	"net/http"
 	"os"
